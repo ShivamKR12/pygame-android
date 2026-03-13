@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Replace org.libsdl.app with the identifier of your game below, e.g.
+4     com.gamemaker.game
+5-->
+6<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+7    package="org.pygame.app.mypygameapp"
+8    android:installLocation="auto"
+9    android:versionCode="1021100"
+10    android:versionName="1.0" > <!-- Android 2.3.3 -->
+11    <uses-sdk
+11-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:21:5-74
+12        android:minSdkVersion="21"
+12-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:21:15-41
+13        android:targetSdkVersion="31" />
+13-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:21:42-71
+14
+15    <supports-screens
+15-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:10:5-18:7
+16        android:anyDensity="true"
+16-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:14:13-38
+17        android:largeScreens="true"
+17-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:13:13-40
+18        android:normalScreens="true"
+18-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:12:13-41
+19        android:smallScreens="true"
+19-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:11:13-40
+20        android:xlargeScreens="true" />
+20-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:16:13-41
+21
+22    <!-- OpenGL ES 2.0 -->
+23    <uses-feature android:glEsVersion="0x00020000" />
+23-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:24:5-54
+23-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:24:19-51
+24
+25    <!-- Set permissions -->
+26    <!--
+27 Create a Java class extending SDLActivity and place it in a
+28         directory under src matching the package, e.g.
+29         	src/com/gamemaker/game/MyGame.java
+30
+31         then replace "SDLActivity" with the name of your class (e.g. "MyGame")
+32         in the XML below.
+33
+34         An example Java class can be found in README-android.txt
+35    -->
+36    <application
+36-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:45:5-86:19
+37        android:allowBackup="true"
+37-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:48:18-44
+38        android:debuggable="true"
+38-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:46:18-43
+39        android:extractNativeLibs="true"
+39-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:53:18-50
+40        android:hardwareAccelerated="true"
+40-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:52:18-52
+41        android:icon="@mipmap/icon"
+41-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:47:18-45
+42        android:label="@string/app_name"
+42-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:45:18-50
+43        android:theme="@android:style/Theme.NoTitleBar" >
+43-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:51:18-65
+44        <meta-data
+44-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:57:9-63
+45            android:name="wakelock"
+45-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:57:20-43
+46            android:value="0" />
+46-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:57:44-61
+47
+48        <activity
+48-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:59:9-76:40
+49            android:name="org.kivy.android.PythonActivity"
+49-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:59:19-65
+50            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale|uiMode|uiMode|screenSize|smallestScreenSize|layoutDirection"
+50-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:61:19-199
+51            android:exported="true"
+51-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:63:19-42
+52            android:label="@string/app_name"
+52-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:60:19-51
+53            android:launchMode="singleTask"
+53-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:65:19-50
+54            android:screenOrientation="portrait" >
+54-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:62:19-55
+55            <intent-filter>
+55-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:69:13-76:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:71:17-69
+56-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:71:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:72:17-77
+58-->/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/AndroidManifest.xml:72:27-74
+59            </intent-filter>
+60        </activity>
+61    </application>
+62
+63</manifest>

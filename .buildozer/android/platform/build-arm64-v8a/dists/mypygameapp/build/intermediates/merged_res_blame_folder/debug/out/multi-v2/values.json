@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.pygame.app.mypygameapp-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/dists/mypygameapp/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,199,114,251",
+                        "endColumns": "58,51,84,42",
+                        "endOffsets": "109,246,194,289"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,166,251",
+                        "endColumns": "58,51,84,42",
+                        "endOffsets": "109,161,246,289"
+                    }
+                }
+            ]
+        }
+    ]
+}
