@@ -1,0 +1,134 @@
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/obj/local/arm64-v8a/objs-debug/harfbuzz/src/hb-ms-feature-ranges.o: \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ms-feature-ranges.cc \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ms-feature-ranges.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-config.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config_sdl_unix.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-blob.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-common.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-buffer.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-unicode.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-font.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-face.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-set.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-draw.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-deprecated.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-map.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape-plan.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-style.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-version.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-color.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-name.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-deprecated.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-font.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-layout.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-math.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-meta.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-metrics.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-shape.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-var.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat-layout.h \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-meta.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-mutex.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-number.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-atomic.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-null.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-algs.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-iter.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-debug.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-array.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-vector.hh \
+  /content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-object.hh
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ms-feature-ranges.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-config.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config_sdl_unix.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-blob.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-common.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-buffer.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-unicode.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-font.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-face.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-set.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-draw.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-deprecated.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-map.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape-plan.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-style.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-version.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-color.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-name.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-deprecated.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-font.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-layout.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-math.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-meta.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-metrics.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-shape.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-var.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat-layout.h:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-meta.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-mutex.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-number.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-atomic.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-null.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-algs.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-iter.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-debug.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-array.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-vector.hh:
+
+/content/pygame-android/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-object.hh:
