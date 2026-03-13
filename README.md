@@ -1,1 +1,1 @@
-# Pygame for Android
+# Pygame on Android
